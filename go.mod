@@ -1,4 +1,4 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/f-lambda-z/blog
 
 go 1.17
 
