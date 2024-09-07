@@ -40,3 +40,20 @@ dan barangsiapa yang berbicara saat khutbah, maka ia telah berbicara sia-sia,
 dan orang yang berbicara sia-sia tidak ada Jum'at baginya.”</br>
 Dengarlah, dengarlah, dan taatlah, semoga Allah merahmati kalian. (3×)</br>
 Dengarlah, tidak ada Tuhan yang berhak disembah selain Allah, Muhammad adalah utusan Allah, semoga rahmat dan salam Allah tercurah padanya._
+
+### 2. Bacaan Muroqi Jum'at Saat Khatib Naik Mimbar
+
+<div align="right">
+اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدُ ×٣
+
+اللَٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا وَحَبِيْبِنَا وَشَفِيْعِنَا وَمَوْلَانَا مُحَمَّدٍ وَسَلِّمْ وَرَضِيَ اللّٰهُ تَبَارَكَ وَتَعَالٰى عَنْ سَادَتِنَا أَصْحَابِ رَسُوْلِ اللّٰهِ أَجْمَعِيْنَ
+</div>
+
+**Arab latin:** _Allaahumma shalli 'alaa sayyidinaa muhammad (3×).
+Allaahumma shalli 'alaa sayyidinaa wa habiibinaa wa syafii 'inaa wa maulaanaa
+muhammadiw wa sallam wa radhiyallaahu tabaaraka wa ta'aalaa 'ang saadaatinaa
+ash haabi rasuulillaahi ajma'iin._
+
+**Artinya:** _Ya Allah, limpahkanlah rahmat dan salam kepada pemimpin kami Muhammad SAW. (3×)</br>
+Ya Allah, shalawat dan salam semoga tercurah kepada junjungan kami, kekasih kami, pemberi syafaat dan penolong kami, Muhammad saw,
+dan semoga Allah Ta'ala meridhoi-Nya, para sahabat Rasulullah, dan semuanya._
