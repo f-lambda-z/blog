@@ -87,7 +87,9 @@ Setelah itu, imam mengucapkan Salam. Lalu, bilal melantunkan adzan.
 
 ## Hukum Membaca Tarqiyyah Sebelum Khutbah Jum'at Dilaksanakan
 
-Dikutip dari website NU Online, pembacaan tarqiyyah oleh muroqi Jum'at menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
+Dikutip dari website <cite>NU Online[^1]<cite>, pembacaan tarqiyyah oleh muroqi Jum'at menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
+
+[^1]: NU Online. "Dasar Hukum Bacaan Bilal Menjelang Khatib Naik Mimbar Khutbah." September 7, 2024. <https://islam.nu.or.id/jumat/dasar-hukum-bacaan-bilal-menjelang-khatib-naik-mimbar-khutbah-jDe9G>.
 
 Kendati demikian, isi dari bacaan tarqiyyah sendiri berisi hal yang positif. Jadi, perlu diingat bahwa tidak semua hal yang Bid'ah (hal yang baru) adalah tercela atau sesat. Selama masih ada dalil-dalil anjuran umum, maka hal tersebut tergolong sebagai hal yang baik sebagaimana yang sudah ditegaskan oleh para ulama dalam kajian tentang bid'ah.
 
