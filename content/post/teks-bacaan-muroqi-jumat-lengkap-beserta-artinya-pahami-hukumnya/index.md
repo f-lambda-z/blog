@@ -1,5 +1,6 @@
 ---
 title: Teks Bacaan Muroqi Jum'at Lengkap Beserta Artinya, Pahami Hukumnya
+description: Muroqi atau yang bisa disebut Bilal adalah orang yang bertugas membacakan bacaan-bacaan sebelum khatib naik mimbar untuk menyampaikan khutbah Jum’at.
 date: 2024-09-07T11:30:52+07:00
 image: cover.jpeg
 tags:
