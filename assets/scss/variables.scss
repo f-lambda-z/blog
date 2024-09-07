@@ -13,10 +13,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --body-background: #dce0e8;
 
-    --accent-color: #34495e;
-    --accent-color-darker: #2c3e50;
-    --accent-color-text: #fff;
-    --body-text-color: #707070;
+    --accent-color: #5c5f77;
+    --accent-color-darker: #323445;
+    --accent-color-text: #e6e9ef;
+    --body-text-color: #494C5F;
 
     --tag-border-radius: 4px;
 
@@ -27,9 +27,9 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     &[data-scheme="dark"] {
         --body-background: #11111b;
-        --accent-color: #ecf0f1;
-        --accent-color-darker: #bdc3c7;
-        --accent-color-text: #000;
+        --accent-color: #bac2de;
+        --accent-color-darker: #9399b2;
+        --accent-color-text: #313244;
         --body-text-color: rgba(255, 255, 255, 0.7);
         --scrollbar-thumb: hsl(0, 0%, 40%);
         --scrollbar-track: var(--body-background);
