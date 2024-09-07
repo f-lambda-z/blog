@@ -1,6 +1,6 @@
 ---
 title: Teks Bacaan Muroqi Jum'at Lengkap Beserta Artinya, Pahami Hukumnya
-date: 2024-09-07 11:30:52+0000
+date: 2024-09-07 18:30:52 GMT+7
 image: cover.jpeg
 ---
 
@@ -85,20 +85,20 @@ akhirilah (hidup) kami dari-Mu dengan kebaikan, wahai Tuhan sebaik-baik penolong
 
 Setelah itu, imam mengucapkan Salam. Lalu, bilal melantunkan adzan.
 
-## Hukum Membaca Tarqiyyah Sebelum Khutbah Jumat Dilaksanakan
+## Hukum Membaca Tarqiyyah Sebelum Khutbah Jum'at Dilaksanakan
 
-Dikutip dari website NU Online, pembacaan tarqiyyah oleh muroqi Jumat menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
+Dikutip dari website NU Online, pembacaan tarqiyyah oleh muroqi Jum'at menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
 
 Kendati demikian, isi dari bacaan tarqiyyah sendiri berisi hal yang positif. Jadi, perlu diingat bahwa tidak semua hal yang Bid'ah (hal yang baru) adalah tercela atau sesat. Selama masih ada dalil-dalil anjuran umum, maka hal tersebut tergolong sebagai hal yang baik sebagaimana yang sudah ditegaskan oleh para ulama dalam kajian tentang bid'ah.
 
-Sedangkan menurut pandangan Syekh Ibnu Hajar (seperti yang dikutip Syekh Sulaiman Al-Jamal dalam Kitab Hasyiyah Al-Jamal 'ala Fath al-Wahhab), tradisi muroqi Jumat disebut sama sekali bukan bid’ah, tetapi hukumnya sunnah.
+Sedangkan menurut pandangan Syekh Ibnu Hajar (seperti yang dikutip Syekh Sulaiman Al-Jamal dalam Kitab Hasyiyah Al-Jamal 'ala Fath al-Wahhab), tradisi muroqi Jum'at disebut sama sekali bukan bid’ah, tetapi hukumnya sunnah.
 
 Pandangan ini didasarkan pada salah satu hadits, yaitu saat melaksanakan khutbah Haji Wada'. Rasulullah SAW memerintahkan salah seorang sahabat untuk memberi instruksi kepada jamaah agar mendengarkan secara seksama khutbahnya.
 
-Bacaan muroqi Jumat ini memiliki 4 kandungan pokok yang baik, yaitu:
+Bacaan muroqi Jum'at ini memiliki 4 kandungan pokok yang baik, yaitu:
 1. Anjuran untuk mendengarkan khutbah.
 2. Larangan untuk berbicara saat khutbah berlangsung.
 3. Membaca shalawat kepada Nabi Muhammad SAW.
 4. Mendoakan orang-orang Muslimin dan Muslimat.
 
-Oleh karenanya, tradisi pembacaan tarqiyyah oleh muroqi Jumat menjadi hal yang baik untuk dilestarikan. Meski ada pandangan ulama yang berbeda mengenai hukumnya, tetapi mereka bersepakat bahwa perbuatan tersebut bukanlah perbuatan tercela ataupun sesat. Sehingga, tidak ada dasar hukum yang kuat untuk melarang amalan pembacaan tarqiyyah.
+Oleh karenanya, tradisi pembacaan tarqiyyah oleh muroqi Jum'at menjadi hal yang baik untuk dilestarikan. Meski ada pandangan ulama yang berbeda mengenai hukumnya, tetapi mereka bersepakat bahwa perbuatan tersebut bukanlah perbuatan tercela ataupun sesat. Sehingga, tidak ada dasar hukum yang kuat untuk melarang amalan pembacaan tarqiyyah.
