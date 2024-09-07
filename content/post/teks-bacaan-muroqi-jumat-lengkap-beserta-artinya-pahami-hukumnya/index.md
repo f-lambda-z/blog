@@ -12,7 +12,9 @@ Selain memiliki tugas membaca tarqiyyah sebelum khatib naik ke mimbar untuk meny
 
 Rangkaian tarqiyyah yang dibaca oleh muroqi Jum'at sebelum khatib naik ke mimbar untuk menyampaikan khutbahnya pada shalat Jum'at adalah sebagai berikut!
 
-### 1. Bacaan Muroqi Jum'at Sebelum Khutbah
+### 1. Bacaan Muroqi Jum'at Sebelum Khatib Naik Mimbar
+
+Berikut ini bacaan yang dibaca muroqi/bilal Jum'at sebelum Khatib naik mimbar!
 
 <div align="right">
 .اَيُّهَـاالنَّاسُ، يَامَعَاشِرَ الْمُسْلِمِيْنَ وَزُمْرَةَ الْمُؤْمِنِيْنَ رَحِمَكُمُ اللّٰهُ رُوِيَ عَنْ أَبِى هُرَيْرَةَ رَضِيَ اللّٰهُ اَنَّهُ قَالَ: قَالَ النَّبِيُّ صَلَّ اللّٰهُ عَلَيْهِ وَسَلَّمْ إِنَّ يَوْمَ الْجُمْعَةِ سَيِّدُ الْاَيَّـامِ وَحِجُّ الْفُقَرَاءِ وَعِيْدُ الْمَسَاكِيْنِ اَلْخُطْبَتَانِ فِيْهَا مَقَامَ رَكْعَتَيْنِ مِنَ الظُّهْرِ. قَالَ النَّبِيُّ صَلَّ اللّٰهُ عَلَيْهِ وَسَلَّمْ فَإِذَا صَعِدَ الخَطِيْبُ عَلَى الْمِنْبَرْ فَلَا يَتَكَلَّمُ أَحَدُكُمْ وَمَنْ يَّتَكَلَّمُ عِنْدَ الْخُطْبَةِ فَقَدْ لَغَوْا وَمَنْ لَّغَا فَلَا جُمْعَةَ لَهُ
@@ -43,6 +45,9 @@ Dengarlah, tidak ada Tuhan yang berhak disembah selain Allah, Muhammad adalah ut
 
 ### 2. Bacaan Muroqi Jum'at Saat Khatib Naik Mimbar
 
+Setelah membaca kalimat di atas, Khatib maju (naik) ke atas mimbar. Pada saat itu, bilal membaca shalawat.
+Adapun bacaan shalawatnya ialah sebagai berikut:
+
 <div align="right">
 اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدُ ×٣
 
@@ -60,6 +65,9 @@ dan semoga Allah Ta'ala meridhoi-Nya, para sahabat Rasulullah, dan semuanya._
 
 ### 3. Bacaan Muroqi Jum'at Setelah Khatib Naik Mimbar
 
+Setelah Khatib naik mimbar, bilal melanjutkan bacaannya dengan membaca do'a sambil menghadap kiblat.
+Do'anya adalah sebagai berikut:
+
 <div align="right">
 اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ أٓمِيْنِ: اَللّٰهُمَّ قَوِّ الْإِسْلَامَ وَالْإِيْمَانَ، مِنَ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ، وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ، اَلْأَحْيَٓاءِ مِنْهُمْ وَالْأَمْوَاتِ، وَانْصُرْهُمْ عَلٰى مُعَانِدِى الدِّيْنَ رَبِّ اخْتِمْ لَنَا مِنْكَ بِالْخَيْرِ، يَاخَيْرً النَّاصِرِيْنَ، لَهُمْ بِرَحْمَتِكَ يَٓا أَرْحَمَ الرَّاحِمِيْنَ.
 </div>
@@ -74,3 +82,23 @@ kuatkanlah keislaman dan keimanan kaum muslimin (pria) dan muslimat (wanita),
 kaum mukminin (pria) dan mukminat (wanita), yang masih hidup dari mereka semua
 dan juga yang sudah meninggal, mudahkanlah mereka untuk mengokohkan agama,
 akhirilah (hidup) kami dari-Mu dengan kebaikan, wahai Tuhan sebaik-baik penolong, dengan rahmat-Mu wahai Tuhan Yang Maha Penyayang dari semua penyayang._
+
+Setelah itu, imam mengucapkan Salam. Lalu, bilal melantunkan adzan.
+
+## Hukum Membaca Tarqiyyah Sebelum Khutbah Jumat Dilaksanakan
+
+Dikutip dari website NU Online, pembacaan tarqiyyah oleh muroqi Jumat menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
+
+Kendati demikian, isi dari bacaan tarqiyyah sendiri berisi hal yang positif. Jadi, perlu diingat bahwa tidak semua hal yang Bid'ah (hal yang baru) adalah tercela atau sesat. Selama masih ada dalil-dalil anjuran umum, maka hal tersebut tergolong sebagai hal yang baik sebagaimana yang sudah ditegaskan oleh para ulama dalam kajian tentang bid'ah.
+
+Sedangkan menurut pandangan Syekh Ibnu Hajar (seperti yang dikutip Syekh Sulaiman Al-Jamal dalam Kitab Hasyiyah Al-Jamal 'ala Fath al-Wahhab), tradisi muroqi Jumat disebut sama sekali bukan bid’ah, tetapi hukumnya sunnah.
+
+Pandangan ini didasarkan pada salah satu hadits, yaitu saat melaksanakan khutbah Haji Wada'. Rasulullah SAW memerintahkan salah seorang sahabat untuk memberi instruksi kepada jamaah agar mendengarkan secara seksama khutbahnya.
+
+Bacaan muroqi Jumat ini memiliki 4 kandungan pokok yang baik, yaitu:
+1. Anjuran untuk mendengarkan khutbah.
+2. Larangan untuk berbicara saat khutbah berlangsung.
+3. Membaca shalawat kepada Nabi Muhammad SAW.
+4. Mendoakan orang-orang Muslimin dan Muslimat.
+
+Oleh karenanya, tradisi pembacaan tarqiyyah oleh muroqi Jumat menjadi hal yang baik untuk dilestarikan. Meski ada pandangan ulama yang berbeda mengenai hukumnya, tetapi mereka bersepakat bahwa perbuatan tersebut bukanlah perbuatan tercela ataupun sesat. Sehingga, tidak ada dasar hukum yang kuat untuk melarang amalan pembacaan tarqiyyah.
