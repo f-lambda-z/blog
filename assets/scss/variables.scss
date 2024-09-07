@@ -120,16 +120,16 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --code-background-color: rgba(0, 0, 0, 0.12);
     --code-text-color: #808080;
 
-    --table-border-color: #4c4f69;
+    --table-border-color: #acb0be;
     --tr-even-background-color: #efefee;
 
-    --kbd-border-color: #4c4f69;
+    --kbd-border-color: #acb0be;
 
     &[data-scheme="dark"] {
         --code-background-color: #272822;
         --code-text-color: rgba(255, 255, 255, 0.9);
 
-        --table-border-color: #717171;
+        --table-border-color: #585b70;
         --tr-even-background-color: #545454;
 
         --blockquote-background-color: rgb(69 71 90);
