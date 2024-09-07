@@ -1,4 +1,5 @@
 ---
+title: Blog - IRMA Baitussalam
 menu:
     main:
         name: Home
