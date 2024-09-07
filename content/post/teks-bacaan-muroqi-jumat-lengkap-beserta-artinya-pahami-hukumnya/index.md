@@ -1,6 +1,6 @@
 ---
 title: Teks Bacaan Muroqi Jum'at Lengkap Beserta Artinya, Pahami Hukumnya
-date: 2024-09-07 11:30:52+0700
+date: 2024-09-07 11:30:52+07:00
 image: cover.jpeg
 ---
 
@@ -89,7 +89,7 @@ Setelah itu, imam mengucapkan Salam. Lalu, bilal melantunkan adzan.
 
 Dikutip dari website <cite>NU Online[^1]</cite>, pembacaan tarqiyyah oleh muroqi Jum'at menurut Jumhur Ulama digolongkan sebagai amalan Bid'ah Hasanah (Bid'ah Baik). Hal ini karena pembacaan tarqiyyah tidak pernah ada pada zaman Rasulullah SAW dan Khulafaur Rasyidin.
 
-[^1]: NU Online. "Dasar Hukum Bacaan Bilal Menjelang Khatib Naik Mimbar Khutbah." September 7, 2024. <https://islam.nu.or.id/jumat/dasar-hukum-bacaan-bilal-menjelang-khatib-naik-mimbar-khutbah-jDe9G>.
+[^1]: NU Online. "Dasar Hukum Bacaan Bilal Menjelang Khatib Naik Mimbar Khutbah." 7 September 2024. <https://islam.nu.or.id/jumat/dasar-hukum-bacaan-bilal-menjelang-khatib-naik-mimbar-khutbah-jDe9G>.
 
 Kendati demikian, isi dari bacaan tarqiyyah sendiri berisi hal yang positif. Jadi, perlu diingat bahwa tidak semua hal yang Bid'ah (hal yang baru) adalah tercela atau sesat. Selama masih ada dalil-dalil anjuran umum, maka hal tersebut tergolong sebagai hal yang baik sebagaimana yang sudah ditegaskan oleh para ulama dalam kajian tentang bid'ah.
 
