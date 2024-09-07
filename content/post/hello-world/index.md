@@ -1,20 +1,63 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Sejarah IRMA Jawa Barat dan IRMA Baitussalam
+description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter. IRMA merupakan organisasi yang tugas dan orientasi utamanya adalah berupaya mengembangkan nilai-nilai pendidikan karakter mulia.
+date: 2024-09-07T13:50:48+07:00
 image: cover.jpg
-categories:
-    - Example Category
 tags:
-    - Example Tag
+    - sejarah
+    - sejarah irma
+    - irma jawa barat
+    - irma baitussalam
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+## Pengertian IRMA
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter[^1]. IRMA merupakan organisasi yang tugas dan orientasi utamanya adalah berupaya mengembangkan nilai-nilai pendidikan karakter mulia. IRMA lahir pada tanggal 18 Desember 2017 di Kota Bandung oleh Bapak Rifa Anggyana S.Pd. dan diketuai oleh Ela Sopiani Rahayu dari MA Sinar Miskin Bandung.
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+[^1]: IRMA Jawa Barat. "Profil - IRMA Jawa Barat". 7 September 2024. <https://irmajabar.com/profil>.
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+## Deretan Ketua IRMA Jawa Barat
+
+1. Ela Sopiani Rahayu, dari MA Sinar Miskin.
+2. Elsar Fatimatuz Zahra, dari MA Miftahul Falah.
+3. Zaenal Abidin, dari MA Al-Istiqamah Bandung.
+4. Aditiya Gustiana Saputra, dari SMA Kartika XIX 3 Bandung.
+5. Saepudin, dari SMAN 1 Jalancagak.
+6. Rasya Restu Mahesya, dari SMAN Situraja.
+
+## Visi, Misi, dan Tujuan IRMA
+### 1. Visi
+
+Menjadikan Ikatan Remaja Masjid yang profesional untuk mewujudkan masjid sekolah dan madrasah sebagai pusat ibadah dan pengembangan remaja masjid dalam meningkatkan keimanan, ketaqwaan, pendidikan, dan keterampilan.
+
+### 2. Misi
+
+- Merevitalisasi peran dan fungsi masjid sekolah dan madrasah.
+- Meningkatkan kualitas ubudiyah umat sesuai faham Ahlussunnah Wal Jamaah melalui pengajian, halaqah, dan istighotsah.
+- Memberdayakan jamaah masjid sekolah dan madrasah melalui pelatihan pemberdayaan ekonomi.
+
+### 3. Tujuan
+
+Terbinanya remaja masjid sekolah dan madrasah yang beriman, berilmu, dan beramal shalih dalam rangka mengabdi kepada Allah SWT dan mengharap keridhoan-Nya.
+
+---
+
+## Sejarah IRMA Baitussalam SMAN 22 GARUT
+
+Berdirinya IRMA Baitussalam di SMAN 22 Garut pada tanggal 14 Februari 2014 yang pada saat itu diketuai oleh kang Kurniawan.
+
+## Deretan Ketua IRMA Baitussalam
+
+1. Kurniawan (2014 - 2015)
+2. Zahrotul Qoir (2015 - 2016)
+3. Tanti Amelia Putri (2016 - 2017)
+4. Alfi Nurjaman (2017 - 2018)
+5. Widiyanti (2018 - 2019)
+6. Rosita Liana Risa (2019 - 2020)
+7. Heni Wulandari (2020 - 2021)
+8. Rahmi Agustin Syafa'at (2021 - 2022)
+9. Perdiyana (2022 - 2023)
+10. Gilang Ramdani (2023 - 2024)
+
+Pada tanggal 14 Februari 2014, sebenarnya bukan Ikatan Remaja Masjid (IRMA) yang terbentuk, namun ROHIS yang terbentuk di SMAN 22 GARUT. Kepanjangan ROHIS adalah Rohani Islam.
