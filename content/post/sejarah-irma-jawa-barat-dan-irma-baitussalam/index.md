@@ -1,7 +1,7 @@
 ---
 title: Sejarah IRMA Jawa Barat dan IRMA Baitussalam
 description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter.
-date: 2024-09-07T13:50:48+07:00
+date: 2024-08-02T01:05:19+07:00
 image: cover.jpeg
 tags:
     - sejarah
@@ -15,7 +15,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter[^1]. IRMA merupakan organisasi yang tugas dan orientasi utamanya adalah berupaya mengembangkan nilai-nilai pendidikan karakter mulia. IRMA lahir pada tanggal 18 Desember 2017 di Kota Bandung oleh Bapak Rifa Anggyana S.Pd. dan diketuai oleh Ela Sopiani Rahayu dari MA Sinar Miskin Bandung.
 
-[^1]: IRMA Jawa Barat. "Profil - IRMA Jawa Barat". 7 September 2024. <https://irmajabar.com/profil>.
+[^1]: IRMA Jawa Barat. "Profil - IRMA Jawa Barat". 2 Agustus 2024. <https://irmajabar.com/profil>.
 
 ## Deretan Ketua IRMA Jawa Barat
 
