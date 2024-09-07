@@ -1,7 +1,7 @@
 article:
     readingTime:
-        one: "baca {{ .Count }} menit"
-        other: "baca {{ .Count }} menit"
+        one: "{{ .Count }} menit membaca"
+        other: "{{ .Count }} menit membaca"
 
 footer:
     builtWith:
