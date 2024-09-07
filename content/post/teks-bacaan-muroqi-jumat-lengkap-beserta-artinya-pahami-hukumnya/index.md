@@ -54,6 +54,23 @@ Allaahumma shalli 'alaa sayyidinaa wa habiibinaa wa syafii 'inaa wa maulaanaa
 muhammadiw wa sallam wa radhiyallaahu tabaaraka wa ta'aalaa 'ang saadaatinaa
 ash haabi rasuulillaahi ajma'iin._
 
-**Artinya:** _Ya Allah, limpahkanlah rahmat dan salam kepada pemimpin kami Muhammad SAW. (3×)</br>
-Ya Allah, shalawat dan salam semoga tercurah kepada junjungan kami, kekasih kami, pemberi syafaat dan penolong kami, Muhammad saw,
+**Artinya:** _Ya Allah, limpahkanlah rahmat dan salam kepada pemimpin kami, Muhammad SAW. (3×)</br>
+Ya Allah, shalawat dan salam semoga tercurah kepada junjungan kami, kekasih kami, pemberi syafa'at dan penolong kami, Muhammad SAW,
 dan semoga Allah Ta'ala meridhoi-Nya, para sahabat Rasulullah, dan semuanya._
+
+### 3. Bacaan Muroqi Jum'at Setelah Khatib Naik Mimbar
+
+<div align="right">
+اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ أٓمِيْنِ: اَللّٰهُمَّ قَوِّ الْإِسْلَامَ وَالْإِيْمَانَ، مِنَ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ، وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ، اَلْأَحْيَٓاءِ مِنْهُمْ وَالْأَمْوَاتِ، وَانْصُرْهُمْ عَلٰى مُعَانِدِى الدِّيْنَ رَبِّ اخْتِمْ لَنَا مِنْكَ بِالْخَيْرِ، يَاخَيْرً النَّاصِرِيْنَ، لَهُمْ بِرَحْمَتِكَ يَٓا أَرْحَمَ الرَّاحِمِيْنَ.
+</div>
+
+**Arab latin:** _Allaahumma shalli wasallim wabarik aamiin. Allaahumma
+qawwil islaama wal iimaan, minal muslimiina wal muslimaat, walmu\`miniina wal mu\`minaat,
+al ahyaa i minhum wal amwaat, wang shurhum 'alaa ma'aanidid diina robbikhtim lanaa
+mingka bil khair, yaa khairan naashiriin, lahum birahmatika yaa arhamar raahimiin._
+
+**Artinya:** _Ya Allah, limpahkanlah rahmat, salam, dan keberkahan. Amin: Ya Allah,
+kuatkanlah keislaman dan keimanan kaum muslimin (pria) dan muslimat (wanita),
+kaum mukminin (pria) dan mukminat (wanita), yang masih hidup dari mereka semua
+dan juga yang sudah meninggal, mudahkanlah mereka untuk mengokohkan agama,
+akhirilah (hidup) kami dari-Mu dengan kebaikan, wahai Tuhan sebaik-baik penolong, dengan rahmat-Mu wahai Tuhan Yang Maha Penyayang dari semua penyayang._
