@@ -1,6 +1,6 @@
 ---
 title: Teks Bacaan Muroqi Jum'at Lengkap Beserta Artinya, Pahami Hukumnya
-date: 2024-09-07 18:30:52+07
+date: 2024-09-07 11:30:52+0700
 image: cover.jpeg
 ---
 
