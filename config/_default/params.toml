@@ -6,7 +6,7 @@ favicon = "/favicon.svg"
 
 [footer]
 since = 2014
-customText = "IRMA Baitussalam"
+customText = ""
 
 [dateFormat]
 published = "02 Jan 2006"
