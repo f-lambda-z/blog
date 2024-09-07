@@ -1,6 +1,6 @@
 ---
 title: Sejarah IRMA Jawa Barat dan IRMA Baitussalam
-description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter. IRMA merupakan organisasi yang tugas dan orientasi utamanya adalah berupaya mengembangkan nilai-nilai pendidikan karakter mulia.
+description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter.
 date: 2024-09-07T13:50:48+07:00
 image: cover.jpeg
 tags:
