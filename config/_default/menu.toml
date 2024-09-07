@@ -11,7 +11,7 @@
 [[social]]
 identifier = "facebook"
 name = "Facebook"
-url = "https://x.com/irmasman22garut"
+url = "https://facebook.com/people/IRMA-SMAN-22-GARUT/100083337945272"
 
 [social.params]
 icon = "brand-facebook"
@@ -42,3 +42,21 @@ url = "https://x.com/irmasman22garut"
 
 [social.params]
 icon = "brand-x"
+
+# YouTube
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/@IRMABaitussalam"
+
+[social.params]
+icon = "brand-youtube"
+
+# Email
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:irmabaitussalam22garut@gmail.com"
+
+[social.params]
+icon = "mail"
