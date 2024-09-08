@@ -12,6 +12,7 @@
 identifier = "facebook"
 name = "Facebook"
 url = "https://facebook.com/people/IRMA-SMAN-22-GARUT/100083337945272"
+weight = 1
 
 [social.params]
 icon = "brand-facebook"
@@ -21,6 +22,7 @@ icon = "brand-facebook"
 identifier = "instagram"
 name = "Instagram"
 url = "https://instagram.com/irmasman22garut_official"
+weight = 2
 
 [social.params]
 icon = "brand-instagram"
@@ -30,6 +32,7 @@ icon = "brand-instagram"
 identifier = "tiktok"
 name = "TikTok"
 url = "https://tiktok.com/@irmasman22garut_official"
+weight = 3
 
 [social.params]
 icon = "brand-tiktok"
@@ -39,6 +42,7 @@ icon = "brand-tiktok"
 identifier = "x"
 name = "X"
 url = "https://x.com/irmasman22garut"
+weight = 4
 
 [social.params]
 icon = "brand-x"
@@ -48,6 +52,7 @@ icon = "brand-x"
 identifier = "youtube"
 name = "YouTube"
 url = "https://youtube.com/@IRMABaitussalam"
+weight = 5
 
 [social.params]
 icon = "brand-youtube"
@@ -57,6 +62,7 @@ icon = "brand-youtube"
 identifier = "email"
 name = "Email"
 url = "mailto:irmabaitussalam22garut@gmail.com"
+weight = 6
 
 [social.params]
 icon = "mail"
@@ -66,6 +72,7 @@ icon = "mail"
 identifier = "website"
 name = "Website"
 url = "https://irmabaitussalam.github.io"
+weight = 7
 
 [social.params]
-icon = "external-link"
+icon = "link"
