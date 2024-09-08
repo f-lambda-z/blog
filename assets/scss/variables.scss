@@ -13,8 +13,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --body-background: #e6e9ef;
 
-    --accent-color: #7c7f93;
-    --accent-color-darker: #5c5f77;
+    --accent-color: #5c5f77;
+    --accent-color-darker: #4C4F63;
     --accent-color-text: #ffffff;
     --body-text-color: #8c8fa1;
 
@@ -27,8 +27,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     &[data-scheme="dark"] {
         --body-background: #1e1e2e;
-        --accent-color: #6c7086;
-        --accent-color-darker: #45475a;
+        --accent-color: #bac2de;
+        --accent-color-darker: #A1A8C0;
         --accent-color-text: #ffffff;
         --body-text-color: #a6adc8;
         --scrollbar-thumb: hsl(0, 0%, 40%);
