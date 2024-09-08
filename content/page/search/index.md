@@ -1,6 +1,6 @@
 ---
 title: "Cari"
-slug: "search"
+slug: "cari"
 layout: "search"
 outputs:
     - html
