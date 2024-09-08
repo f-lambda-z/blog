@@ -60,3 +60,12 @@ url = "mailto:irmabaitussalam22garut@gmail.com"
 
 [social.params]
 icon = "mail"
+
+# Website
+[[social]]
+identifier = "website"
+name = "Website"
+url = "https://irmabaitussalam.github.io"
+
+[social.params]
+icon = "external-link"
