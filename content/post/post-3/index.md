@@ -1,6 +1,6 @@
 ---
 title: Bolehkah Perempuan Haid Membaca Al-Qur'an? Simak Pendapat Para Ulama!
-description: Membaca Al-Qur'an merupakan salah satu <cite>amaliyah</cite> yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid?
+description: Membaca Al-Qur'an merupakan salah satu amaliyah yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid?
 date: 2024-09-14T10:30:52+07:00
 image: cover.jpeg
 tags:
@@ -20,7 +20,7 @@ Pendapat ini di kemukakan oleh _jumhur_ ulama dari madzhab Syafi'i, Hanbali, dan
 
 Para ulama yang berpendapat demikian berlandaskan pada hadits yang diriwayatkan oleh At-Tirmidzi dan ulama lainnya. Hadits ini menegaskan bahwa baik orang yang sedang junub maupun perempuan yang sedang haid dilarang membaca Al-Qur'an. Rasulullah SAW bersabda:
 
-<div align="center">
+<div align="right">
 
 لَا يَقْرَأُ الْحَائِضُ وَلَا الْجُنُبُ شَيْئًا مِنَ الْقُرْآنِ (رواه الترمذي، البيهقي)
 
@@ -32,13 +32,13 @@ Meskipun hadits yang melarang perempuan haid membaca Al-Qur'an awalnya dinilai l
 
 Ibnu Hajar Al-Haitami dalam karyanya _Al-Minhajul Qawim_ (hal. 49) dan Abul Abbas Ahmad Ar-Ramli dalam _Hasyiyatur Ramli_ (juz I, hal. 67), juga menguatkan argumen ini, sehingga hadits tersebut tetap kuat untuk dijadikan dasar hukum. Selain itu, para ulama yang melarang perempuan haid membaca Al-Qur'an juga meng-<cite>qiyas</cite>kannya dengan keadaan orang yang sedang junub, yang telah disepakati oleh ulama sebagai keadaan di mana membaca Al-Qur'an dilarang. Hal ini dijelaskan oleh Imam An-Nawawi dalam _Al-Majmu' Syarhul Muhaddzab_ (juz II, hal. 388), yang memperkuat argumen ini dengan berbagai dalil. Hadits Ali bin Abi Thalib menyebutkan bahwa:
 
-<div align="center">
+<div align="right">
 
 كَانَ النَّبِيُّ ﷺ يَقْرَأُ الْقُرْآنَ عَلَى كُلِّ أَحْوَالِهِ سِوَى الْجَنَابَةِ
 
-**Artinya:** _"Nabi SAW selalu membaca Al-Qur'an dalam segala kondisi dan situasi, kecuali ketika Beliau junub."_
-
 </div>
+
+**Artinya:** _"Nabi SAW selalu membaca Al-Qur'an dalam segala kondisi dan situasi, kecuali ketika Beliau junub."_
 
 Para ulama menyamakan haid dengan junub. Mereka berpendapat haid lebih berat dibandingkan junub. Hal ini disebabkan karena haid biasanya berlangsung lebih lama, sementara junub adalah keadaan yang sementara dan dapat segera disucikan dengan mandi wajib.
 
@@ -60,7 +60,7 @@ Sebagai solusi dalam kasus ini, salah satu pandangan yang dapat diikuti adalah p
 
 Syekh Ahmad Ad-Dardir dalam kitab _As-Syarhus Shaghir_ menjelaskan bahwa membaca Al-Qur'an selama darah haid masih keluar tidak dilarang. Namun, setelah darah berhenti, perempuan tidak boleh membaca Al-Qur'an sampai ia mandi janabat. Ini merupakan pendapat yang dijadikan pegangan dalam madzhab Maliki:
 
-<div align="center">
+<div align="right">
 
 وَلَا يَحْرُمُ عَلَيْهَا قِرَاءَةُ الْقُرْآنِ إلَّا بَعْدَ انْقِطَاعِهِ وَقَبْلَ غُسْلِهَا، سَوَاءٌ كَانَتْ جُنُبًا حَالَ حَيْضِهَا أَمْ لَا، فَلَا تَقْرَأُ بَعْدَ انْقِطَاعِهِ مُطْلَقًا حَتَّى تَغْتَسِلَ. هَذَا هُوَ الْمُعْتَمَدُ
 
