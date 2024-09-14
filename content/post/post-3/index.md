@@ -9,6 +9,7 @@ tags:
     - perempuan haid
     - adab
     - adab membaca al-qur'an
+    - membaca al-qur'an
 ---
 
 Membaca Al-Qur'an merupakan salah satu _amaliyah_ yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid? Banyak ulama yang memiliki beragam pendapat mengenai hal ini. Secara umum, terdapat 3 pendapat yang muncul dan berkembang terkait masalah ini, yaitu: (1) mengharamkannya secara mutlak; (2) membolehkannya secara mutlak; dan (3) membolehkannya dengan beberapa catatan.
