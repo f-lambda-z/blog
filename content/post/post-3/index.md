@@ -1,6 +1,6 @@
 ---
 title: Bolehkah Perempuan Haid Membaca Al-Qur\'an? Simak Pendapat Para Ulama!
-description: Membaca Al-Qur\'an merupakan salah satu _amaliyah_ yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid? Banyak ulama yang memiliki beragam pendapat mengenai hal ini. Secara umum, terdapat 3 pendapat yang muncul dan berkembang terkait masalah ini, yaitu: (1) mengharamkannya secara mutlak; (2) membolehkannya secara mutlak; dan (3) membolehkannya dengan beberapa catatan.
+description: Membaca Al-Qur\'an merupakan salah satu _amaliyah_ yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid?
 date: 2024-09-14T10:30:52+07:00
 image: cover.jpeg
 tags:
