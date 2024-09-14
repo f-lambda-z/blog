@@ -1,7 +1,7 @@
-type colorScheme = 'light' | 'dark' | 'auto';
+type colorScheme = 'light' | 'dark';
 
-class IRMAColorScheme {
-    private localStorageKey = 'IRMAColorScheme';
+class StackColorScheme {
+    private localStorageKey = 'irmabaitussalam-theme';
     private currentScheme: colorScheme;
     private systemPreferScheme: colorScheme;
 
@@ -25,7 +25,6 @@ class IRMAColorScheme {
     private bindClick(toggleEl: HTMLElement) {
         toggleEl.addEventListener('click', (e) => {
             if (this.isDark()) {
-                /// Disable dark mode
                 this.currentScheme = 'light';
             }
             else {
@@ -33,18 +32,12 @@ class IRMAColorScheme {
             }
 
             this.setBodyClass();
-
-            if (this.currentScheme == this.systemPreferScheme) {
-                /// Set to auto
-                this.currentScheme = 'auto';
-            }
-
             this.saveScheme();
-        })
+        });
     }
 
     private isDark() {
-        return (this.currentScheme == 'dark' || this.currentScheme == 'auto' && this.systemPreferScheme == 'dark');
+        return this.currentScheme == 'dark';
     }
 
     private dispatchEvent(colorScheme: colorScheme) {
@@ -66,10 +59,9 @@ class IRMAColorScheme {
     }
 
     private getSavedScheme(): colorScheme {
-        const savedScheme = localStorage.getItem(this.localStorageKey);
-
-        if (savedScheme == 'light' || savedScheme == 'dark' || savedScheme == 'auto') return savedScheme;
-        else return 'auto';
+        const savedScheme = localStorage.getItem(this.localStorageKey);                                               
+        if (savedScheme == 'light' || savedScheme == 'dark') return savedScheme;
+        else return 'light';
     }
 
     private bindMatchMedia() {
@@ -85,4 +77,4 @@ class IRMAColorScheme {
     }
 }
 
-export default IRMAColorScheme;
+export default StackColorScheme;
