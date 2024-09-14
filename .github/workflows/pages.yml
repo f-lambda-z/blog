@@ -51,7 +51,7 @@ jobs:
             --gc --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Replace title
-        run: sed -i "s/Category: Kisah Lucu - Blog - IRMA Baitussalam/Kisah Lucu/g" ./public/kisah-lucu/index.html
+        run: sed -i "s/Category: Kisah Lucu - Blog - IRMA Baitussalam/Kisah Lucu/g" "./public/kisah-lucu/index.html"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa #v3.0.1
         with:
