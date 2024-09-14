@@ -52,9 +52,20 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Replace title
         run: |
+          # Pages
+          sed -i 's@<title>Arsip</title>@<title>Arsip - Blog IRMA Baitussalam</title>@g' ./public/arsip/index.html
+          sed -i 's@content="Arsip"@content="Arsip - Blog IRMA Baitussalam"@g' ./public/arsip/index.html
+          sed -i 's@<title>Cari</title>@<title>Cari - Blog IRMA Baitussalam</title>@g' ./public/cari/index.html
+          sed -i 's@content="Cari"@content="Cari - Blog IRMABaitussalam"@g' ./public/cari/index.html
+
+          # Category
           sed -i "s@Category: Kisah Lucu - Blog - IRMA Baitussalam@Kisah Lucu - Blog IRMA Baitussalam@g" ./public/kategori/kisah-lucu/index.html
           sed -i "s@Category: Kisah Inspiratif - Blog - IRMA Baitussalam@Kisah Inspiratif - Blog IRMA Baitussalam@g" ./public/kategori/kisah-inspiratif/index.html
           sed -i "s@Category: Sejarah - Blog - IRMA Baitussalam@Sejarah - Blog IRMA Baitussalam@g" ./public/kategori/sejarah/index.html
+      - name: Moved folder names
+        run: |
+          cp -rf ./public/categories/* ./public/kategori
+          rm -rf ./public/categories/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa #v3.0.1
         with:
