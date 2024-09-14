@@ -52,8 +52,8 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Replace title and description
         run: |
-          # sed -i 's/content="Mewujudkan remaja masjid yang beriman, bertaqwa, berkarakter, cerdas, dan terampil."/content="Baca artikel atau blog dari IRMA Baitussalam"/g' ./public/index.html
-          sed -i "s/Category: Kisah Lucu - Blog - IRMA Baitussalam/Kisah Lucu/g" ./public/kisah-lucu/index.html
+          sed -i "s@<title>Blog - IRMA Baitussalam</title>@<title>Blog - IRMA Baitussalam</title><meta property='og:image' content='https://irmabaitussalam.github.io/images/thumbnail/blog.jpg' />@g" ./public/index.html
+          sed -i "s@Category: Kisah Lucu - Blog - IRMA Baitussalam@Kisah Lucu - Blog IRMA Baitussalam@g" ./public/kisah-lucu/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa #v3.0.1
         with:
