@@ -50,11 +50,11 @@ jobs:
           hugo \
             --gc --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Replace title and description
+      - name: Replace title
         run: |
           sed -i "s@Category: Kisah Lucu - Blog - IRMA Baitussalam@Kisah Lucu - Blog IRMA Baitussalam@g" ./public/kisah-lucu/index.html
-          sed -i "s@Category: Kisah Inspiratif - Blog - IRMA Baitussalam@Kisah Inspiratif - Blog IRMA Baitussalam" ./public/kisah-inspiratif/index.html
-          sed -i "s@Category: Sejarah - Blog - IRMA Baitussalam@Sejarah - Blog IRMA Baitussalam" ./public/sejarah/index.html
+          sed -i "s@Category: Kisah Inspiratif - Blog - IRMA Baitussalam@Kisah Inspiratif - Blog IRMA Baitussalam@g" ./public/kisah-inspiratif/index.html
+          sed -i "s@Category: Sejarah - Blog - IRMA Baitussalam@Sejarah - Blog IRMA Baitussalam@g" ./public/sejarah/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa #v3.0.1
         with:
