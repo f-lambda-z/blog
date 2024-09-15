@@ -1,6 +1,6 @@
 ---
 title: "Sejarah"
-description: "Jadilah yang lebih tahu sejarah tentang Islam di Dunia."
+description: "Jadilah yang lebih tahu tentang sejarah Islam di Dunia."
 slug: "sejarah"
 image: "cover.jpeg"
 weight: 2
