@@ -72,6 +72,15 @@ jobs:
           sed -i "s@Category: Kisah Lucu - Blog - IRMA Baitussalam@Kisah Lucu - Blog IRMA Baitussalam@g" ./public/kategori/kisah-lucu/index.html
           sed -i "s@Category: Kisah Inspiratif - Blog - IRMA Baitussalam@Kisah Inspiratif - Blog IRMA Baitussalam@g" ./public/kategori/kisah-inspiratif/index.html
           sed -i "s@Category: Sejarah - Blog - IRMA Baitussalam@Sejarah - Blog IRMA Baitussalam@g" ./public/kategori/sejarah/index.html
+
+          # Tags
+          folder=(`ls ./public/tags`)
+          for d in "${folder[@]}"; do
+            if [[ -d "./public/tags/$d" && "$d" != "page" ]]; then
+              sed -i 's@Tag: @@g' ./public/tags/$d/index.html
+              sed -i 's@Blog - IRMA@Blog IRMA@g' ./public/tags/$d/index.html
+            fi
+          done
       - name: Moved folder names
         run: |
           cp -rf ./public/categories/* ./public/kategori
