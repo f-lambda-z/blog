@@ -9,5 +9,4 @@ menu:
         weight: 2
         params: 
             icon: archives
-image: https://irmabaitussalam.github.io/images/thumbnail/arsip.jpg
 ---

@@ -12,5 +12,4 @@ menu:
         weight: 3
         params: 
             icon: search
-image: https://irmabaitussalam.github.io/images/thumbnail/cari.jpg
 ---
