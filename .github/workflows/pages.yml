@@ -57,8 +57,16 @@ jobs:
           sed -i 's@content="Arsip"@content="Arsip - Blog IRMA Baitussalam"@g' ./public/arsip/index.html
           sed -i 's@<title>Cari</title>@<title>Cari - Blog IRMA Baitussalam</title>@g' ./public/cari/index.html
           sed -i 's@content="Cari"@content="Cari - Blog IRMABaitussalam"@g' ./public/cari/index.html
+          sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/index.html
+          sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/page/*/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/page/*/index.html
           sed -i 's@<title>Kategori</title>@<title>Kategori - Blog IRMA Baitussalam</title>@g' ./public/categories/index.html
           sed -i 's@content="Kategori"@content="Kategori - Blog IRMABaitussalam"@g' ./public/categories/index.html
+          sed -i 's@<title>Halaman</title>@<title>Halaman - Blog IRMA Baitussalam</title>@g' ./public/page/index.html
+          sed -i 's@content="Halaman"@content="Halaman - Blog IRMABaitussalam"@g' ./public/page/index.html
+          sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/post/index.html
+          sed -i 's@content="Postingan"@content="Postingan - Blog IRMABaitussalam"@g' ./public/post/index.html
 
           # Category
           sed -i "s@Category: Kisah Lucu - Blog - IRMA Baitussalam@Kisah Lucu - Blog IRMA Baitussalam@g" ./public/kategori/kisah-lucu/index.html
